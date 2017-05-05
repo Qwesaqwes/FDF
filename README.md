@@ -1,2 +1,6 @@
 # FDF
-Creation of a 3D image using coordinates x, y, z on a map
+
+![alt text](https://github.com/Qwesaqwes/FDF/blob/master/test_maps/42.jpg)
+
+
+![alt text](https://github.com/Qwesaqwes/FDF/blob/master/test_maps/pira.jpg)
